@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.Formatter;
 import java.util.Scanner;
-
+//////Client
 public class Client {
     public static void main(String[] args) throws Exception {
         String s = "a";
